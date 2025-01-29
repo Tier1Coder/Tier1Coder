@@ -64,17 +64,6 @@ Hi there, my name is Oskar.<br><br>I have already fulfilled many of my dreams, b
 
 ---
 
-### 🏅 **Proficiency Scale**
-
-The stars next to each technology represent proficiency level on a scale from 1 to 5 stars:
-
-- **★☆☆☆☆** — Beginner
-- **★★☆☆☆** — Intermediate
-- **★★★☆☆** — Advanced
-- **★★★★☆** — Proficient
-- **★★★★★** — Expert
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tier1Coder&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tier1Coder&theme=yeblu&hide_border=true)<br/>
@@ -87,6 +76,3 @@ The stars next to each technology represent proficiency level on a scale from 1 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tier1Coder&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
