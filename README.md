@@ -12,12 +12,12 @@ The quote of my life is:
 ---
 
 ### 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tier1Coder&langs_count=8&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tier1Coder&langs_count=8&layout=compact&theme=dark)
 
 ---
 
 ### ✍️ Random Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 </div>
